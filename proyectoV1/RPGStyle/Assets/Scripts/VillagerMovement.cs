@@ -5,27 +5,46 @@ using UnityEngine;
 public class VillagerMovement : MonoBehaviour {
 
     public float moveSpeed;
+
     private Rigidbody2D myRigidBody;
+
     public bool isWalking;
+
     public float walkTime;
     public float waitTime;
     private float walkCounter;
     private float waitCounter;
 
     private int WalkDirection;
+    public bool canMove;
+    private DialogueManager theDM;
 
     // Use this for initialization
     void Start () {
         myRigidBody = GetComponent<Rigidbody2D>();
+        theDM = FindObjectOfType<DialogueManager>();
 
         waitCounter = waitTime;
         walkCounter = walkTime;
 
         ChooseDirection();
+        canMove = true;
 	}
 	
 	// Update is called once per frame
 	void Update () {
+
+        if (!theDM.dialogActive)
+        {
+            canMove=true;
+        }
+
+        if (!canMove)
+        {
+            myRigidBody.velocity = Vector2.zero;
+            return;
+        }
+
         if (isWalking)
         {
             walkCounter -= Time.deltaTime;

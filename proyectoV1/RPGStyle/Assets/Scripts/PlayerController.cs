@@ -12,6 +12,8 @@ public class PlayerController : MonoBehaviour {
 
     private static bool playerExist;
 
+    public bool canMove;
+
     // Use this for initialization
     void Start () {
         anim = GetComponent<Animator>(); //inicializa la animacion   
@@ -23,12 +25,17 @@ public class PlayerController : MonoBehaviour {
         } else{
             Destroy(gameObject);
         }
-
-
+        canMove = true;
 	}
 	
 	// Update is called once per frame
 	void Update () {
+
+        if (!canMove)
+        {
+            myRigidBody.velocity = Vector2.zero;
+            return;
+        }
 
         if (Input.GetAxisRaw("Horizontal") > 0.5f || Input.GetAxisRaw("Horizontal") < 0.5f)
         {

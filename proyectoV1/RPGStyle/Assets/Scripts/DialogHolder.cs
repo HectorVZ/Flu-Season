@@ -7,6 +7,8 @@ public class DialogHolder : MonoBehaviour {
     public string dialogue;
     private DialogueManager dMAn;
 
+    public string[] dialogLines;
+
 	// Use this for initialization
 	void Start () {
         dMAn = FindObjectOfType<DialogueManager>();
@@ -22,7 +24,19 @@ public class DialogHolder : MonoBehaviour {
         {
             if (Input.GetKeyUp(KeyCode.Space))
             {
-                dMAn.ShowBox(dialogue);
+                //dMAn.ShowBox(dialogue);
+
+                if (!dMAn.dialogActive)
+                {
+                    dMAn.dialogLines = dialogLines;
+                    dMAn.currentLine = 0;
+                    dMAn.ShowDialog();
+                }
+                if (transform.parent.GetComponent<VillagerMovement>())
+                {
+                    transform.parent.GetComponent<VillagerMovement>().canMove = false;
+                }
+
             }
         }
 
