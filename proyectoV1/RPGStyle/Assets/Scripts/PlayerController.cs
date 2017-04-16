@@ -9,15 +9,21 @@ public class PlayerController : MonoBehaviour {
     private Animator anim;
 
     private Rigidbody2D myRigidBody;
+	private Rigidbody miRigidBody;
 
     private static bool playerExist;
 
     public bool canMove;
 
+
+
     // Use this for initialization
     void Start () {
         anim = GetComponent<Animator>(); //inicializa la animacion   
         myRigidBody = GetComponent<Rigidbody2D>();
+
+
+
         if (!playerExist)
         {
             playerExist = true;
@@ -62,7 +68,8 @@ public class PlayerController : MonoBehaviour {
 
         anim.SetFloat("MoveX", Input.GetAxisRaw("Horizontal"));
         anim.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
- 
 
     }
+
+
 }
