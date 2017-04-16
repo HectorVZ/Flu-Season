@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Puzzle1 : MonoBehaviour {
 	//variables para el movimiento de fichas
@@ -24,7 +25,8 @@ public class Puzzle1 : MonoBehaviour {
 	//Variables para mostrar texto cuando se realiza bien el puzzle
 	public GameObject Canvas;
 	Text texto;
-
+	//variable que captura la escena
+	public string escuela;
 
 
 	// Use this for initialization
@@ -49,7 +51,7 @@ public class Puzzle1 : MonoBehaviour {
 
 			// detiene el movimiento del puzzle
 			mover = false;
-
+			SceneManager.LoadScene(escuela);
 			//ACA VIENEN EL CAMBIO DE ESCENA
 		}
 

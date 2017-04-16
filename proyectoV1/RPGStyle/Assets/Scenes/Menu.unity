@@ -201,8 +201,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1, y: -8}
-  m_SizeDelta: {x: 190, y: 65}
+  m_AnchoredPosition: {x: -2, y: -15}
+  m_SizeDelta: {x: 174, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &313885925
 MonoBehaviour:
@@ -462,7 +462,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.6201557, g: 0.9852941, b: 0.5288711, a: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -614,16 +614,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19296063, g: 0.2131077, b: 0.6102941, a: 0.915}
+  m_Color: {r: 0.72702205, g: 0.875, b: 0.7525355, a: 0.915}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
+  m_Sprite: {fileID: 21300000, guid: 5bb08b83998b7a14f98d38087036886d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -743,8 +743,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1, y: -93}
-  m_SizeDelta: {x: 190, y: 65}
+  m_AnchoredPosition: {x: -1, y: -62}
+  m_SizeDelta: {x: 174, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &805572268
 MonoBehaviour:
@@ -918,7 +918,7 @@ GameObject:
   - component: {fileID: 1021556483}
   - component: {fileID: 1021556482}
   m_Layer: 5
-  m_Name: Text
+  m_Name: TituloJuego
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -939,8 +939,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 142}
-  m_SizeDelta: {x: 384, y: 59}
+  m_AnchoredPosition: {x: 7, y: 97}
+  m_SizeDelta: {x: 682, y: 59}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1021556482
 MonoBehaviour:
@@ -954,7 +954,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.08298213, g: 0.4852941, b: 0.007136685, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -964,7 +964,7 @@ MonoBehaviour:
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
     m_FontSize: 48
-    m_FontStyle: 0
+    m_FontStyle: 3
     m_BestFit: 0
     m_MinSize: 4
     m_MaxSize: 48
@@ -974,7 +974,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Flu Season
+  m_Text: Temporada De Gripe
 --- !u!222 &1021556483
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2043,8 +2043,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1, y: 75}
-  m_SizeDelta: {x: 190, y: 65}
+  m_AnchoredPosition: {x: -1, y: 33}
+  m_SizeDelta: {x: 174, y: 40}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2109191487
 MonoBehaviour:
@@ -2110,7 +2110,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.0868035, g: 0.88235295, b: 0.05839106, a: 1}
+  m_Color: {r: 0.17407675, g: 0.6838235, b: 0.15587153, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
