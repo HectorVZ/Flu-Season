@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class OpenMiniGame : MonoBehaviour {
 
+    //variable encargada de revisar el nombre del minijuego a abrir
     public string miniJuego;
 
 
@@ -18,7 +19,7 @@ public class OpenMiniGame : MonoBehaviour {
     void Update () {
        
     }
-
+    //metodo que abre una nueva escena cuando el personaje colisiona con un enemigo
 	void OnTriggerEnter2D(Collider2D other)
 	{
 		if(other.gameObject.name == "player")

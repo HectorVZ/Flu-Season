@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class PauseGame : MonoBehaviour {
 
+    //variable de tipo canvas la cual se encarga de contener el menu de pausa
     public Canvas canvas;
 
 
@@ -23,6 +24,7 @@ public class PauseGame : MonoBehaviour {
             Pausa();
         }
     }
+    //metodo pausa que se encarga de dar continuidad al juego o pausarlo mostrando una ventana
     public void Pausa()
     {
         if (canvas.gameObject.activeInHierarchy == false)
@@ -36,6 +38,7 @@ public class PauseGame : MonoBehaviour {
             Time.timeScale = 1;
         }
     }
+    //metodo que carga un escenario dependiendo del nombre
     public void loadScene(string name)
     {
         SceneManager.LoadScene(name);

@@ -20,6 +20,7 @@ public class Puzzle1 : MonoBehaviour {
 
 	//variables para modificar el script Aciertos
 	public GameObject script;
+	//variable tipo Aciertos para modificar los aciertos
 	Aciertos modificar;
 
 	//Variables para mostrar texto cuando se realiza bien el puzzle
@@ -31,9 +32,11 @@ public class Puzzle1 : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-
+		// permite mover las fichas
 		mover = true;
+		//captura la etiqueta de un objeto
 		tagObjeto = gameObject.tag;
+		//modifica el script Aciertos
 		modificar = script.GetComponent<Aciertos>();
 
 		//coger el componente texto del canvas
@@ -47,7 +50,7 @@ public class Puzzle1 : MonoBehaviour {
 		if(modificar.puntos == 8 )
 		{
 			//texto que aparecerá cuando se realize el puzzle correctamente
-			texto.text = "Felicidades!! Has ganado el Puzzle";
+			texto.text = "Felicidades!!";
 
 			// detiene el movimiento del puzzle
 			mover = false;

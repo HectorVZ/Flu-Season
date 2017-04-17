@@ -12,7 +12,7 @@ public class ColisionesLaberinto : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-
+        //inicializa la variable en una posicion
 		posicionIni = transform.position;
 
 	}
@@ -22,6 +22,7 @@ public class ColisionesLaberinto : MonoBehaviour {
 		
 	}
 
+    // metodo que es llamado cuando el personaje colisiona con un enemigo
 	void OnCollisionEnter (Collision otro)
 	{
 

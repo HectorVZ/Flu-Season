@@ -3,36 +3,44 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class VillagerMovement : MonoBehaviour {
-
+    //variable que controla la velocidad de movimiento del personaje
     public float moveSpeed;
-
+    // variable de tipo rigidbody encargada de que el objeto asignado con ella pueda colisionar
     private Rigidbody2D myRigidBody;
-
+    //variable bool que se encarga de controlar si  la nube  esta en movimiento o no
     public bool isWalking;
-
+    //variable que se encarga de el tiempo de caminata a la nube 
     public float walkTime;
+    //variable que se encarga de el tiempo de espera a la nube 
     public float waitTime;
+    //variable que se encarga de contar caminata a la nube 
     private float walkCounter;
+    //variable que se encarga de contar el tiempo de espera a la nube 
     private float waitCounter;
-
+    //variable que se encarga de dar direccion de caminata a la nube 
+    //con valores de entre 0 y 3
     private int WalkDirection;
+    //variable bool que se encarga de dar paso a la nube de si puede caminar o no
     public bool canMove;
+    //objeto manager de dialogo
     private DialogueManager theDM;
 
     // Use this for initialization
+    // ademas es el encargado de ejecutar el metodo choose direction
     void Start () {
         myRigidBody = GetComponent<Rigidbody2D>();
         theDM = FindObjectOfType<DialogueManager>();
 
-        waitCounter = waitTime;
+        
         walkCounter = walkTime;
 
         ChooseDirection();
         canMove = true;
 	}
-	
-	// Update is called once per frame
-	void Update () {
+
+    // Update is called once per frame
+    //se encarga de dar la caminata a la nube en una direccion aleatoria
+    void Update () {
 
         if (!theDM.dialogActive)
         {
@@ -87,7 +95,7 @@ public class VillagerMovement : MonoBehaviour {
             }
         }
     }
-
+    //metodo encargado de dar direccion aleatoria a la nube
     public void ChooseDirection()
     {
         WalkDirection = Random.Range(0, 4);
