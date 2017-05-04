@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: d23b45b48ab596e48a97571e0653d826
+timeCreated: 1492553006
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AssetsPoke2_0
+    21300002: AssetsPoke2_1
+    21300004: AssetsPoke2_2
+    21300006: AssetsPoke2_3
+    21300008: AssetsPoke2_4
+    21300010: AssetsPoke2_5
+    21300012: AssetsPoke2_6
+    21300014: AssetsPoke2_9
+    21300016: AssetsPoke2_10
+    21300018: AssetsPoke2_11
+    21300020: AssetsPoke2_12
+    21300022: AssetsPoke2_15
+    21300024: AssetsPoke2_16
+    21300026: AssetsPoke2_17
+    21300028: AssetsPoke2_18
+    21300030: AssetsPoke2_19
+    21300032: AssetsPoke2_23
+    21300034: AssetsPoke2_24
+    21300036: AssetsPoke2_25
+    21300038: AssetsPoke2_26
+    21300040: AssetsPoke2_27
+    21300042: AssetsPoke2_28
+    21300044: AssetsPoke2_31
+    21300046: AssetsPoke2_32
+    21300048: AssetsPoke2_33
+    21300050: AssetsPoke2_34
+    21300052: AssetsPoke2_37
+    21300054: AssetsPoke2_38
+    21300056: AssetsPoke2_39
+    21300058: AssetsPoke2_40
+    21300060: AssetsPoke2_43
+    21300062: AssetsPoke2_44
+    21300064: AssetsPoke2_45
+    21300066: AssetsPoke2_46
+    21300068: AssetsPoke2_49
+    21300070: AssetsPoke2_50
+    21300072: AssetsPoke2_51
+    21300074: AssetsPoke2_52
+    21300076: AssetsPoke2_53
+    21300078: AssetsPoke2_54
+    21300080: AssetsPoke2_55
+    21300082: AssetsPoke2_56
+    21300084: AssetsPoke2_57
+    21300086: AssetsPoke2_58
+    21300088: AssetsPoke2_59
+    21300090: AssetsPoke2_60
+    21300092: AssetsPoke2_61
+    21300094: AssetsPoke2_62
+    21300096: AssetsPoke2_63
+    21300098: AssetsPoke2_64
+    21300100: AssetsPoke2_65
+    21300102: AssetsPoke2_66
+    21300104: AssetsPoke2_67
+    21300106: AssetsPoke2_68
+    21300108: AssetsPoke2_69
+    21300110: AssetsPoke2_70
+    21300112: AssetsPoke2_71
+    21300114: AssetsPoke2_72
+    21300116: AssetsPoke2_73
+    21300118: AssetsPoke2_75
+    21300120: AssetsPoke2_80
+    21300122: AssetsPoke2_87
+    21300124: AssetsPoke2_90
+    21300126: AssetsPoke2_91
+    21300128: AssetsPoke2_92
+    21300130: AssetsPoke2_94
+    21300132: AssetsPoke2_108
+    21300134: AssetsPoke2_109
+    21300136: AssetsPoke2_129
+    21300138: AssetsPoke2_130
+    21300140: AssetsPoke2_138
+    21300142: AssetsPoke2_139
+    21300144: AssetsPoke2_140
+    21300146: AssetsPoke2_143
+    21300148: AssetsPoke2_146
+    21300150: AssetsPoke2_147
+    21300152: AssetsPoke2_148
+    21300154: AssetsPoke2_149
+    21300156: AssetsPoke2_150
+    21300158: AssetsPoke2_151
+    21300160: AssetsPoke2_152
+    21300162: AssetsPoke2_153
+    21300164: AssetsPoke2_154
+    21300166: AssetsPoke2_155
+    21300168: AssetsPoke2_158
+    21300170: AssetsPoke2_159
+    21300172: AssetsPoke2_160
+    21300174: AssetsPoke2_161
+    21300176: AssetsPoke2_162
+    21300178: AssetsPoke2_163
+    21300180: AssetsPoke2_164
+    21300182: AssetsPoke2_165
+    21300184: AssetsPoke2_166
+    21300186: AssetsPoke2_167
+    21300188: AssetsPoke2_170
+    21300190: AssetsPoke2_173
+    21300192: AssetsPoke2_176
+    21300194: AssetsPoke2_178
+    21300196: AssetsPoke2_179
+    21300198: AssetsPoke2_180
+    21300200: AssetsPoke2_181
+    21300202: AssetsPoke2_182
+    21300204: AssetsPoke2_183
+    21300206: AssetsPoke2_184
+    21300208: AssetsPoke2_185
+    21300210: AssetsPoke2_186
+    21300212: AssetsPoke2_187
+    21300214: AssetsPoke2_188
+    21300216: AssetsPoke2_189
+    21300218: AssetsPoke2_190
+    21300220: AssetsPoke2_191
+    21300222: AssetsPoke2_192
+    21300224: AssetsPoke2_193
+    21300226: AssetsPoke2_194
+    21300228: AssetsPoke2_195
+    21300230: AssetsPoke2_196
+    21300232: AssetsPoke2_197
+    21300234: AssetsPoke2_199
+    21300236: AssetsPoke2_200
+    21300238: AssetsPoke2_201
+    21300240: AssetsPoke2_202
+    21300242: AssetsPoke2_203
+    21300244: AssetsPoke2_204
+    21300246: AssetsPoke2_205
+    21300248: AssetsPoke2_206
+    21300250: AssetsPoke2_207
+    21300252: AssetsPoke2_208
+    21300254: AssetsPoke2_209
+    21300256: AssetsPoke2_210
+    21300258: AssetsPoke2_211
+    21300260: AssetsPoke2_212
+    21300262: AssetsPoke2_213
+    21300264: AssetsPoke2_214
+    21300266: AssetsPoke2_215
+    21300268: AssetsPoke2_216
+    21300270: AssetsPoke2_217
+    21300272: AssetsPoke2_218
+    21300274: AssetsPoke2_219
+    21300276: AssetsPoke2_220
+    21300278: AssetsPoke2_221
+    21300280: AssetsPoke2_222
+    21300282: AssetsPoke2_223
+    21300284: AssetsPoke2_224
+    21300286: AssetsPoke2_260
+    21300288: AssetsPoke2_261
+    21300290: AssetsPoke2_262
+    21300292: AssetsPoke2_263
+    21300294: AssetsPoke2_265
+    21300296: AssetsPoke2_266
+    21300298: AssetsPoke2_267
+    21300300: AssetsPoke2_268
+    21300302: AssetsPoke2_269
+    21300304: AssetsPoke2_271
+    21300306: AssetsPoke2_272
+    21300308: AssetsPoke2_273
+    21300310: AssetsPoke2_277
+    21300312: AssetsPoke2_278
+    21300314: AssetsPoke2_279
+    21300316: AssetsPoke2_280
+    21300318: AssetsPoke2_281
+    21300320: AssetsPoke2_282
+    21300322: AssetsPoke2_285
+    21300324: AssetsPoke2_286
+    21300326: AssetsPoke2_290
+    21300328: AssetsPoke2_291
+    21300330: AssetsPoke2_292
+    21300332: AssetsPoke2_293
+    21300334: AssetsPoke2_294
+    21300336: AssetsPoke2_295
+    21300338: AssetsPoke2_296
+    21300340: AssetsPoke2_297
+    21300342: AssetsPoke2_298
+    21300344: AssetsPoke2_299
+    21300346: AssetsPoke2_300
+    21300348: AssetsPoke2_301
+    21300350: AssetsPoke2_302
+    21300352: AssetsPoke2_95
+    21300354: AssetsPoke2_96
+    21300356: AssetsPoke2_88
+    21300358: AssetsPoke2_74
+    21300360: AssetsPoke2_76
+    21300362: AssetsPoke2_77
+    21300364: AssetsPoke2_7
+    21300366: AssetsPoke2_8
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AssetsPoke2_10
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2350
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_11
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2350
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2350
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_92
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 2077
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_108
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1758
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_109
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1856
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_130
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1551
+        width: 17
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_143
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1423
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_161
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1345
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_260
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 427
+        width: 104
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_261
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 446
+        width: 121
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_262
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 439
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_263
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 84
+        width: 119
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_265
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 446
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_266
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 460
+        width: 121
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_267
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 440
+        width: 118
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_268
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 447
+        width: 134
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_269
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 441
+        width: 144
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_271
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 309
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_272
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 333
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_273
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 115
+        width: 95
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_277
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 107
+        width: 104
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_278
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 112
+        width: 120
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_279
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 110
+        width: 194
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_280
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 146
+        width: 107
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_281
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 149
+        width: 179
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_282
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 176
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_285
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 179
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_290
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1409
+        width: 27
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_302
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2033
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_95
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1567
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_96
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1312
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_88
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2254
+        width: 2
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1757
+        width: 4
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: AssetsPoke2_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1789
+        width: 70
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

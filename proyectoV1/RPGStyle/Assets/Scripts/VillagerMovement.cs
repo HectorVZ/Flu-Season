@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class VillagerMovement : MonoBehaviour {
+public class VillagerMovement : MonoBehaviour 
+{
     //variable que controla la velocidad de movimiento del personaje
     public float moveSpeed;
     // variable de tipo rigidbody encargada de que el objeto asignado con ella pueda colisionar
