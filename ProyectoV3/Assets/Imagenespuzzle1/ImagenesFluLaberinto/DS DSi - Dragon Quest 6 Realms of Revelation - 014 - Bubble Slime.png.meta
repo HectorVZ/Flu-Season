@@ -1,0 +1,4416 @@
+fileFormatVersion: 2
+guid: 6654ceca2635e574c838c4523a5f9851
+timeCreated: 1492368546
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_0
+    21300002: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_1
+    21300004: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_2
+    21300006: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_3
+    21300008: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_4
+    21300010: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_5
+    21300012: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_6
+    21300014: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_7
+    21300016: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_8
+    21300018: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_9
+    21300020: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_10
+    21300022: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_11
+    21300024: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_12
+    21300026: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_13
+    21300028: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_14
+    21300030: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_15
+    21300032: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_16
+    21300034: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_17
+    21300036: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_18
+    21300038: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_19
+    21300040: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_20
+    21300042: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_21
+    21300044: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_22
+    21300046: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_23
+    21300048: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_24
+    21300050: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_25
+    21300052: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_26
+    21300054: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_27
+    21300056: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_28
+    21300058: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_29
+    21300060: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_30
+    21300062: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_31
+    21300064: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_32
+    21300066: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_33
+    21300068: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_34
+    21300070: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_35
+    21300072: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_36
+    21300074: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_37
+    21300076: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_38
+    21300078: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_39
+    21300080: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_40
+    21300082: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_41
+    21300084: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_42
+    21300086: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_43
+    21300088: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_44
+    21300090: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_45
+    21300092: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_46
+    21300094: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_47
+    21300096: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_48
+    21300098: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_49
+    21300100: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_50
+    21300102: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_51
+    21300104: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_52
+    21300106: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_53
+    21300108: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_54
+    21300110: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_55
+    21300112: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_56
+    21300114: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_57
+    21300116: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_58
+    21300118: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_59
+    21300120: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_60
+    21300122: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_61
+    21300124: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_62
+    21300126: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_63
+    21300128: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_64
+    21300130: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_65
+    21300132: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_66
+    21300134: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_67
+    21300136: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_68
+    21300138: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_69
+    21300140: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_70
+    21300142: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_71
+    21300144: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_72
+    21300146: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_73
+    21300148: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_74
+    21300150: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_75
+    21300152: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_76
+    21300154: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_77
+    21300156: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_78
+    21300158: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_79
+    21300160: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_80
+    21300162: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_81
+    21300164: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_82
+    21300166: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_83
+    21300168: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_84
+    21300170: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_85
+    21300172: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_86
+    21300174: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_87
+    21300176: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_88
+    21300178: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_89
+    21300180: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_90
+    21300182: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_91
+    21300184: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_92
+    21300186: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_93
+    21300188: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_94
+    21300190: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_95
+    21300192: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_96
+    21300194: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_97
+    21300196: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_98
+    21300198: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_99
+    21300200: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_100
+    21300202: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_101
+    21300204: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_102
+    21300206: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_103
+    21300208: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_104
+    21300210: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_105
+    21300212: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_106
+    21300214: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_107
+    21300216: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_108
+    21300218: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_109
+    21300220: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_110
+    21300222: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_111
+    21300224: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_112
+    21300226: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_113
+    21300228: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_114
+    21300230: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_115
+    21300232: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_116
+    21300234: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_117
+    21300236: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_118
+    21300238: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_119
+    21300240: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_120
+    21300242: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_121
+    21300244: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_122
+    21300246: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_123
+    21300248: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_124
+    21300250: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_125
+    21300252: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_126
+    21300254: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_127
+    21300256: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_128
+    21300258: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_129
+    21300260: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_130
+    21300262: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_131
+    21300264: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_132
+    21300266: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_133
+    21300268: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_134
+    21300270: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_135
+    21300272: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_136
+    21300274: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_137
+    21300276: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_138
+    21300278: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_139
+    21300280: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_140
+    21300282: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_141
+    21300284: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_142
+    21300286: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_143
+    21300288: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_144
+    21300290: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_145
+    21300292: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_146
+    21300294: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_147
+    21300296: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_148
+    21300298: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_149
+    21300300: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_150
+    21300302: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_151
+    21300304: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_152
+    21300306: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_153
+    21300308: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_154
+    21300310: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_155
+    21300312: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_156
+    21300314: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_157
+    21300316: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_158
+    21300318: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_159
+    21300320: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_160
+    21300322: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_161
+    21300324: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_162
+    21300326: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_163
+    21300328: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_164
+    21300330: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_165
+    21300332: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_166
+    21300334: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_167
+    21300336: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_168
+    21300338: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_169
+    21300340: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_170
+    21300342: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_171
+    21300344: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_172
+    21300346: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_173
+    21300348: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_174
+    21300350: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_175
+    21300352: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_176
+    21300354: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_177
+    21300356: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_178
+    21300358: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_179
+    21300360: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_180
+    21300362: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_181
+    21300364: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_182
+    21300366: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_183
+    21300368: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_184
+    21300370: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_185
+    21300372: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_186
+    21300374: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_187
+    21300376: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_188
+    21300378: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_189
+    21300380: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_190
+    21300382: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_191
+    21300384: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_192
+    21300386: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_193
+    21300388: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_194
+    21300390: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_195
+    21300392: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_196
+    21300394: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_197
+    21300396: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_198
+    21300398: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_199
+    21300400: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_200
+    21300402: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_201
+    21300404: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_202
+    21300406: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_203
+    21300408: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_204
+    21300410: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_205
+    21300412: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_206
+    21300414: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_207
+    21300416: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_208
+    21300418: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_209
+    21300420: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_210
+    21300422: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_211
+    21300424: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_212
+    21300426: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_213
+    21300428: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_214
+    21300430: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_215
+    21300432: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_216
+    21300434: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_217
+    21300436: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_218
+    21300438: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_219
+    21300440: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_220
+    21300442: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_221
+    21300444: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_222
+    21300446: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_223
+    21300448: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_224
+    21300450: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_225
+    21300452: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_226
+    21300454: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_227
+    21300456: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_228
+    21300458: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_229
+    21300460: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_230
+    21300462: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_231
+    21300464: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_232
+    21300466: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_233
+    21300468: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_234
+    21300470: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_235
+    21300472: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_236
+    21300474: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_237
+    21300476: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_238
+    21300478: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_239
+    21300480: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_240
+    21300482: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_241
+    21300484: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_242
+    21300486: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_243
+    21300488: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_244
+    21300490: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_245
+    21300492: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_246
+    21300494: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_247
+    21300496: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_248
+    21300498: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_249
+    21300500: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_250
+    21300502: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_251
+    21300504: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_252
+    21300506: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_253
+    21300508: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_254
+    21300510: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_255
+    21300512: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_256
+    21300514: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_257
+    21300516: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_258
+    21300518: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_259
+    21300520: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_260
+    21300522: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_261
+    21300524: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_262
+    21300526: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_263
+    21300528: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_264
+    21300530: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_265
+    21300532: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_266
+    21300534: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_267
+    21300536: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_268
+    21300538: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_269
+    21300540: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_270
+    21300542: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_271
+    21300544: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_272
+    21300546: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_273
+    21300548: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_274
+    21300550: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_275
+    21300552: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_276
+    21300554: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_277
+    21300556: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_278
+    21300558: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_279
+    21300560: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_280
+    21300562: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_281
+    21300564: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_282
+    21300566: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_283
+    21300568: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_284
+    21300570: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_285
+    21300572: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_286
+    21300574: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_287
+    21300576: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_288
+    21300578: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_289
+    21300580: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_290
+    21300582: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_291
+    21300584: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_292
+    21300586: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_293
+    21300588: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_294
+    21300590: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_295
+    21300592: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_296
+    21300594: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_297
+    21300596: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_298
+    21300598: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_299
+    21300600: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_300
+    21300602: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_301
+    21300604: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_302
+    21300606: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_303
+    21300608: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_304
+    21300610: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_305
+    21300612: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_306
+    21300614: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_307
+    21300616: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_308
+    21300618: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_309
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 250
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 251
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 234
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 245
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 249
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 250
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 249
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 242
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 232
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_10
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 234
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 234
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_12
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 249
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 241
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_18
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 233
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 227
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_21
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_24
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_27
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_29
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_30
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 209
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 225
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_34
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 226
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_38
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 224
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_39
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_41
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_43
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 210
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_45
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 225
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_47
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_48
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_49
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 225
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_50
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 194
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 217
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_54
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 218
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 218
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_56
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_57
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_59
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_60
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_61
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 217
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_63
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 208
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_65
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 209
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 209
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_67
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 202
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_69
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 202
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_70
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 193
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_72
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_73
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 188
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_74
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_75
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_76
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 188
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_77
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 200
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_79
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 176
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_80
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 178
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 193
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_82
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_83
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 177
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_85
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_86
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 185
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_87
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_88
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_89
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 153
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_90
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_91
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 185
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 176
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_93
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_94
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_95
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_96
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_97
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_98
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 161
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_99
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_100
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 177
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_101
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 161
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_102
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_103
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_104
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 170
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_105
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 171
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_106
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 160
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_107
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 153
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_108
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 155
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_109
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 169
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_110
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_111
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 161
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_112
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_113
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_114
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_115
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_116
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_117
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 146
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_118
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_119
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_120
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_121
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_122
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_123
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_124
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 147
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_125
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_126
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_127
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 137
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_129
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 140
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_130
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_131
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 153
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_132
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_133
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_134
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_135
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_136
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_137
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_138
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 131
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_139
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_140
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 130
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_141
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 145
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_142
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_143
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_144
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_145
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_146
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_147
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_148
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_149
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_150
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_151
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_152
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_153
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_154
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 122
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_155
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_156
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_157
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_158
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_159
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_160
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_161
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_162
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 116
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_163
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_164
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_165
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 115
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_166
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 129
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_167
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 112
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_168
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 108
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_169
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_170
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 122
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_171
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_172
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_173
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 121
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_174
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 121
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_175
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_176
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 112
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_177
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 114
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_178
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 113
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_179
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_180
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_181
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 97
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_182
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_183
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_184
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 90
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_185
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_186
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 104
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_187
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_188
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 96
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_189
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 95
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_190
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 95
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_191
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 88
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_192
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 83
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_193
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 82
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_194
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 82
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_195
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_196
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 67
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_197
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_198
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 80
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_199
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 80
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_200
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 74
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_201
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_202
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_203
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_205
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 67
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_206
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 66
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_207
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_208
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_209
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_210
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 64
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_211
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 66
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_212
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_213
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_214
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_215
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_216
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 65
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_218
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_219
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_220
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_221
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_222
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 49
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_223
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_224
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_225
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 57
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_226
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 59
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_227
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_228
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_229
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_230
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 50
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_231
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_232
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_233
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_234
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_235
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_236
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_237
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_238
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 24
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_239
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_240
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_241
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 42
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_242
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_243
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_244
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_245
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_246
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_247
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_248
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_249
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_250
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 42
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_251
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_252
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 42
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_253
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 43
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_254
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 34
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_255
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_256
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 18
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_257
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_258
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 32
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_259
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_260
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_261
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 21
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_262
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 20
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_263
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 38
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_264
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 37
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_265
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_266
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 36
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_267
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 33
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_268
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 33
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_269
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 16
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_270
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 18
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_271
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_272
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_273
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 18
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_274
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_275
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_276
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_277
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_278
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 17
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_279
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_280
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_281
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_282
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_283
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_284
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_285
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_286
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 8
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_287
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_288
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 8
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_289
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 8
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_290
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 8
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_291
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 8
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_292
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 8
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_293
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 8
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_294
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_295
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_296
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_297
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_298
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_299
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_300
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_301
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_302
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_303
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_304
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_305
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_306
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_307
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_308
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - Dragon Quest 6 Realms of Revelation - 014 - Bubble Slime_309
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

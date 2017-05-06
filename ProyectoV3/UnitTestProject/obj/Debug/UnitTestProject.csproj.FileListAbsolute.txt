@@ -1,0 +1,14 @@
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\bin\Debug\Assembly-CSharp.dll
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\bin\Debug\UnityEngine.dll
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\bin\Debug\UnityEngine.UI.dll
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\bin\Debug\UnityEditor.dll
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\bin\Debug\Assembly-CSharp.pdb
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\bin\Debug\UnityEngine.xml
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\bin\Debug\UnityEngine.UI.xml
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\bin\Debug\UnityEditor.xml
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\JULIANDG\Desktop\unity\proyecto\RPGStyle\UnitTestProject\obj\Debug\UnitTestProject.pdb
