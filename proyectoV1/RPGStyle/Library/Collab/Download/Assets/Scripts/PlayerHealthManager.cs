@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Error><Code>AccessDenied</Code><Message>Request has expired</Message><X-Amz-Expires>20</X-Amz-Expires><Expires>2017-05-04T23:24:29Z</Expires><ServerTime>2017-05-04T23:24:34Z</ServerTime><RequestId>5A1B102F9B234F94</RequestId><HostId>t/YrUEqC9XUndk2+R088GNK1MMK3DBZuakWKsWmdrW5H1HBAe2dML+OZBYeSBlYAO1xRs99WNGU=</HostId></Error>

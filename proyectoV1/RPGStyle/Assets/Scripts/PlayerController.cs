@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityStandardAssets.CrossPlatformInput;
 
 public class PlayerController : MonoBehaviour {
     //variable que controla la velocidad de movimiento del personaje
@@ -37,10 +38,11 @@ public class PlayerController : MonoBehaviour {
         }
         canMove = true;
 	}
-	
-	// Update is called once per frame
+
+    // Update is called once per frame
     //es el encargado de dar movimiento al personaje de forma horizontal y vertical
-	void Update () {
+    
+    void Update () {
 
         if (!canMove)
         {
@@ -75,6 +77,9 @@ public class PlayerController : MonoBehaviour {
         anim.SetFloat("MoveY", Input.GetAxisRaw("Vertical"));
 
     }
-
-
+    
+    void FixUpdate()
+    {
+        Vector2 moveVec = new Vector2(CrossPlatformInputManager.GetAxis("Horizontal"), CrossPlatformInputManager.GetAxis("Vertical"))* moveSpeed;    
+    }
 }
