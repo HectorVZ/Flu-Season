@@ -40,4 +40,15 @@ public class PauseGame : MonoBehaviour {
     {
         SceneManager.LoadScene(name);
     }
+	    public void Save()
+    {
+        Scene currentScene = SceneManager.GetActiveScene();
+        PlayerPrefs.SetInt("PlayerProg", currentScene.buildIndex);
+       
+    }
+    public void Load()
+    {
+        SceneManager.LoadScene(PlayerPrefs.GetInt("PlayerProg", 1));
+       
+    }
 }

@@ -91,6 +91,66 @@ NavMeshSettings:
     cellSize: 0.16666667
     accuratePlacement: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &46996055
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 46996056}
+  - component: {fileID: 46996058}
+  - component: {fileID: 46996057}
+  m_Layer: 0
+  m_Name: imagenPrevencion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &46996056
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 46996055}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1878442611}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &46996057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 46996055}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3920abd586c53d4e8444267b6073c14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue: libroVol1
+  dialogLines:
+  - "S\xEDntomas de la gripe Volumen 1"
+  - Si presentas dolor de cabeza intenso o dolor muscular, de ojos o articulaciones,
+    es muy probable que estes enfermandote de gripe
+--- !u!61 &46996058
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 46996055}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 0.039670467, y: -0.080123544}
+  serializedVersion: 2
+  m_Size: {x: 0.4230015, y: 0.5054326}
 --- !u!1 &55939353
 GameObject:
   m_ObjectHideFlags: 0
@@ -526,13 +586,18 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 114258439768415312, guid: 2fd0c1154edd31d43893facd3eef84df,
+        type: 2}
+      propertyPath: dialogLines.Array.size
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4639058121390262, guid: 2fd0c1154edd31d43893facd3eef84df, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 13.62
+      value: 14.496
       objectReference: {fileID: 0}
     - target: {fileID: 4639058121390262, guid: 2fd0c1154edd31d43893facd3eef84df, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -7.88
+      value: -8.81
       objectReference: {fileID: 0}
     - target: {fileID: 4639058121390262, guid: 2fd0c1154edd31d43893facd3eef84df, type: 2}
       propertyPath: m_LocalPosition.z
@@ -572,6 +637,65 @@ Prefab:
         type: 2}
       propertyPath: m_Color.b
       value: 0.6509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 4639058121390262, guid: 2fd0c1154edd31d43893facd3eef84df, type: 2}
+      propertyPath: m_LocalScale.x
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 4639058121390262, guid: 2fd0c1154edd31d43893facd3eef84df, type: 2}
+      propertyPath: m_LocalScale.y
+      value: 0.88
+      objectReference: {fileID: 0}
+    - target: {fileID: 114258439768415312, guid: 2fd0c1154edd31d43893facd3eef84df,
+        type: 2}
+      propertyPath: dialogLines.Array.data[0]
+      value: "Mira en los libros que est\xE1n en los alrededores del sal\xF3n. Contienen
+        informaci\xF3n sobre los s\xEDntomas que presenta una persona enferma de gripe"
+      objectReference: {fileID: 0}
+    - target: {fileID: 61481759145773282, guid: 2fd0c1154edd31d43893facd3eef84df,
+        type: 2}
+      propertyPath: m_Offset.x
+      value: 0.016542811
+      objectReference: {fileID: 0}
+    - target: {fileID: 61481759145773282, guid: 2fd0c1154edd31d43893facd3eef84df,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: -0.06213083
+      objectReference: {fileID: 0}
+    - target: {fileID: 61481759145773282, guid: 2fd0c1154edd31d43893facd3eef84df,
+        type: 2}
+      propertyPath: m_Size.x
+      value: 0.30801362
+      objectReference: {fileID: 0}
+    - target: {fileID: 61481759145773282, guid: 2fd0c1154edd31d43893facd3eef84df,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 0.5351252
+      objectReference: {fileID: 0}
+    - target: {fileID: 61055148855376460, guid: 2fd0c1154edd31d43893facd3eef84df,
+        type: 2}
+      propertyPath: m_Offset.x
+      value: -0.007824898
+      objectReference: {fileID: 0}
+    - target: {fileID: 61055148855376460, guid: 2fd0c1154edd31d43893facd3eef84df,
+        type: 2}
+      propertyPath: m_Size.x
+      value: 0.4366938
+      objectReference: {fileID: 0}
+    - target: {fileID: 61055148855376460, guid: 2fd0c1154edd31d43893facd3eef84df,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: -0.09246252
+      objectReference: {fileID: 0}
+    - target: {fileID: 61055148855376460, guid: 2fd0c1154edd31d43893facd3eef84df,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 0.6301522
+      objectReference: {fileID: 0}
+    - target: {fileID: 114258439768415312, guid: 2fd0c1154edd31d43893facd3eef84df,
+        type: 2}
+      propertyPath: dialogLines.Array.data[1]
+      value: "Ac\xE9rcate a el profesor tiene algo de informaci\xF3n para ti."
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2fd0c1154edd31d43893facd3eef84df, type: 2}
@@ -761,6 +885,67 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d8170c44a8f1bad439bfcad13e2aa571, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &586925027
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 586925028}
+  - component: {fileID: 586925030}
+  - component: {fileID: 586925029}
+  m_Layer: 0
+  m_Name: imagenPrevencion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &586925028
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 586925027}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1389903340}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &586925029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 586925027}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3920abd586c53d4e8444267b6073c14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue: libroVol2
+  dialogLines:
+  - "S\xEDntomas de la gripe Volumen 2"
+  - "S\xEDntomas comunes pueden ser: Tos frecuente e intensa, muchas veces acompa\xF1ada
+    de dificultad para respirar. Si presentas cualquiera de estos s\xEDntomas puedes
+    estar enfermo de gripe"
+--- !u!61 &586925030
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 586925027}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 0.039670467, y: -0.080123544}
+  serializedVersion: 2
+  m_Size: {x: 0.4230015, y: 0.5054326}
 --- !u!1001 &611831677
 Prefab:
   m_ObjectHideFlags: 0
@@ -1036,6 +1221,38 @@ CanvasRenderer:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 876871437}
+--- !u!1 &1097626657
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1097626658}
+  m_Layer: 0
+  m_Name: libro
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1097626658
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1097626657}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 30.92, y: -6.063003, z: -0.1640625}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1878442611}
+  - {fileID: 1389903340}
+  - {fileID: 1770843019}
+  - {fileID: 1432121312}
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1385131562
 Prefab:
   m_ObjectHideFlags: 0
@@ -1175,6 +1392,262 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   miniJuego: Puzzle1
+--- !u!1 &1389903339
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1389903340}
+  - component: {fileID: 1389903343}
+  - component: {fileID: 1389903342}
+  - component: {fileID: 1389903341}
+  m_Layer: 0
+  m_Name: libroAzul (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1389903340
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1389903339}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -13.38, y: 4.22, z: 0.1640625}
+  m_LocalScale: {x: 0.79999995, y: 0.79999995, z: 1}
+  m_Children:
+  - {fileID: 586925028}
+  m_Father: {fileID: 1097626658}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1389903341
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1389903339}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0.033359528, y: -0.05559635}
+  serializedVersion: 2
+  m_Size: {x: 0.32544297, y: 0.35509485}
+--- !u!95 &1389903342
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1389903339}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d9e5094a7f7ed2543a3c15b4b5ab3a55, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!212 &1389903343
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1389903339}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 3
+  m_Sprite: {fileID: 21301760, guid: 835a7268f512dc9469b06c51ee697822, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+--- !u!1 &1432121311
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1432121312}
+  - component: {fileID: 1432121315}
+  - component: {fileID: 1432121314}
+  - component: {fileID: 1432121313}
+  m_Layer: 0
+  m_Name: libroAzul (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1432121312
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1432121311}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -20.84, y: 1.87, z: 0.1640625}
+  m_LocalScale: {x: 0.79999995, y: 0.79999995, z: 1}
+  m_Children:
+  - {fileID: 1432998714}
+  m_Father: {fileID: 1097626658}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1432121313
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1432121311}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0.033359528, y: -0.05559635}
+  serializedVersion: 2
+  m_Size: {x: 0.32544297, y: 0.35509485}
+--- !u!95 &1432121314
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1432121311}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d9e5094a7f7ed2543a3c15b4b5ab3a55, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!212 &1432121315
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1432121311}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 3
+  m_Sprite: {fileID: 21301760, guid: 835a7268f512dc9469b06c51ee697822, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+--- !u!1 &1432998713
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1432998714}
+  - component: {fileID: 1432998716}
+  - component: {fileID: 1432998715}
+  m_Layer: 0
+  m_Name: imagenPrevencion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1432998714
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1432998713}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1432121312}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1432998715
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1432998713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3920abd586c53d4e8444267b6073c14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue: libroVol4
+  dialogLines:
+  - "S\xEDntomas de la gripe Volumen 4"
+  - Tener la nariz congestionada  y presentar estornudos constantes son indicadores
+    de que tienes el virus de la gripe
+--- !u!61 &1432998716
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1432998713}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 0.039670467, y: -0.080123544}
+  serializedVersion: 2
+  m_Size: {x: 0.4230015, y: 0.5054326}
 --- !u!1 &1438489859
 GameObject:
   m_ObjectHideFlags: 0
@@ -1243,6 +1716,77 @@ CanvasRenderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1438489859}
+--- !u!1 &1490313574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1490313575}
+  - component: {fileID: 1490313577}
+  - component: {fileID: 1490313576}
+  - component: {fileID: 1490313579}
+  m_Layer: 0
+  m_Name: imagenPrevencion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1490313575
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1490313574}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1770843019}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1490313576
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1490313574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3920abd586c53d4e8444267b6073c14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue: libroVol3
+  dialogLines:
+  - "S\xEDntomas de la gripe Volumen 3"
+  - El cansancio extremo y el malestar general pueden ser alarmas de que estas enfermo
+--- !u!61 &1490313577
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1490313574}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_Offset: {x: 0.039670467, y: -0.080123544}
+  serializedVersion: 2
+  m_Size: {x: 0.4230015, y: 0.5054326}
+--- !u!222 &1490313579
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1490313574}
 --- !u!1 &1509695185
 GameObject:
   m_ObjectHideFlags: 0
@@ -1365,6 +1909,28 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 7dc60c1f29b40834780a8a09509e22be, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1550154407 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 1269589619880570, guid: 7dc60c1f29b40834780a8a09509e22be,
+    type: 2}
+  m_PrefabInternal: {fileID: 1550154406}
+--- !u!95 &1550154408
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1550154407}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0fa24982721bc9f4c9dc2badd24eb72d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
 --- !u!1001 &1588891968
 Prefab:
   m_ObjectHideFlags: 0
@@ -1801,6 +2367,202 @@ CanvasRenderer:
     type: 2}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1754415884}
+--- !u!1 &1770843018
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1770843019}
+  - component: {fileID: 1770843022}
+  - component: {fileID: 1770843021}
+  - component: {fileID: 1770843020}
+  m_Layer: 0
+  m_Name: libroAzul (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1770843019
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1770843018}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -22.29, y: -3.94, z: 0.1640625}
+  m_LocalScale: {x: 0.79999995, y: 0.79999995, z: 1}
+  m_Children:
+  - {fileID: 1490313575}
+  m_Father: {fileID: 1097626658}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1770843020
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1770843018}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0.033359528, y: -0.05559635}
+  serializedVersion: 2
+  m_Size: {x: 0.32544297, y: 0.35509485}
+--- !u!95 &1770843021
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1770843018}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d9e5094a7f7ed2543a3c15b4b5ab3a55, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!212 &1770843022
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1770843018}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 3
+  m_Sprite: {fileID: 21301760, guid: 835a7268f512dc9469b06c51ee697822, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+--- !u!1 &1878442610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1878442611}
+  - component: {fileID: 1878442613}
+  - component: {fileID: 1878442612}
+  - component: {fileID: 1878442614}
+  m_Layer: 0
+  m_Name: libroAzul
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1878442611
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1878442610}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -19.07, y: 5.44, z: 0.1640625}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 1}
+  m_Children:
+  - {fileID: 46996056}
+  m_Father: {fileID: 1097626658}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &1878442612
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1878442610}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: d9e5094a7f7ed2543a3c15b4b5ab3a55, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+--- !u!212 &1878442613
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1878442610}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingOrder: 3
+  m_Sprite: {fileID: 21301760, guid: 835a7268f512dc9469b06c51ee697822, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+--- !u!61 &1878442614
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1878442610}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_Offset: {x: 0.033359528, y: -0.05559635}
+  serializedVersion: 2
+  m_Size: {x: 0.32544297, y: 0.35509485}
 --- !u!1 &1881140525
 GameObject:
   m_ObjectHideFlags: 0
@@ -1871,11 +2633,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4310451073226652, guid: d8170c44a8f1bad439bfcad13e2aa571, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 15.41
+      value: 16.75
       objectReference: {fileID: 0}
     - target: {fileID: 4310451073226652, guid: d8170c44a8f1bad439bfcad13e2aa571, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -9.35
+      value: -9.39
       objectReference: {fileID: 0}
     - target: {fileID: 4310451073226652, guid: d8170c44a8f1bad439bfcad13e2aa571, type: 2}
       propertyPath: m_LocalPosition.z
@@ -1948,18 +2710,19 @@ Prefab:
     - target: {fileID: 114567587849877706, guid: d8170c44a8f1bad439bfcad13e2aa571,
         type: 2}
       propertyPath: dialogLines.Array.data[0]
-      value: Hola
+      value: Hola. Ya supiste?
       objectReference: {fileID: 0}
     - target: {fileID: 114567587849877706, guid: d8170c44a8f1bad439bfcad13e2aa571,
         type: 2}
       propertyPath: dialogLines.Array.data[1]
-      value: Ya supiste?
+      value: "Muchos compa\xF1eros no vinieron a clase porque estaban enfermos de
+        gripe"
       objectReference: {fileID: 0}
     - target: {fileID: 114567587849877706, guid: d8170c44a8f1bad439bfcad13e2aa571,
         type: 2}
       propertyPath: dialogLines.Array.data[2]
-      value: "Muchos compa\xF1eros no vinieron a clase porque estaban enfermos de
-        gripe"
+      value: "Creo que leer\xE9 algo sobre los s\xEDntomas de la gripe. Vamos, lee
+        tu tambi\xE9n los libros que encuentres."
       objectReference: {fileID: 0}
     - target: {fileID: 114567587849877706, guid: d8170c44a8f1bad439bfcad13e2aa571,
         type: 2}
@@ -1969,7 +2732,7 @@ Prefab:
     - target: {fileID: 114008678664145436, guid: d8170c44a8f1bad439bfcad13e2aa571,
         type: 2}
       propertyPath: moveSpeed
-      value: 0.3
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 50830781359816340, guid: d8170c44a8f1bad439bfcad13e2aa571,
         type: 2}
