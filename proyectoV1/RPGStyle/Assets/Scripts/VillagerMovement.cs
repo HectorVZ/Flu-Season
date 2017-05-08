@@ -16,8 +16,6 @@ public class VillagerMovement : MonoBehaviour
     public float waitTime;
     //variable que se encarga de contar caminata a la nube 
     private float walkCounter;
-    //variable que se encarga de contar el tiempo de espera a la nube 
-    private float waitCounter;
     //variable que se encarga de dar direccion de caminata a la nube 
     //con valores de entre 0 y 3
     private int WalkDirection;
@@ -28,7 +26,7 @@ public class VillagerMovement : MonoBehaviour
 
     // Use this for initialization
     // ademas es el encargado de ejecutar el metodo choose direction
-    void Start () {
+    public void Start () {
         myRigidBody = GetComponent<Rigidbody2D>();
         theDM = FindObjectOfType<DialogueManager>();
 
@@ -41,7 +39,7 @@ public class VillagerMovement : MonoBehaviour
 
     // Update is called once per frame
     //se encarga de dar la caminata a la nube en una direccion aleatoria
-    void Update () {
+    public void Update () {
 
         if (!theDM.dialogActive)
         {

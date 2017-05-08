@@ -12,24 +12,20 @@ public class DialogHolder : MonoBehaviour {
     public string[] dialogLines;
 
 	// Use this for initialization
-	void Start () {
+	public void Start () {
         //encuentra y asigna un objeto existente de tipo DialogManager
         dMAn = FindObjectOfType<DialogueManager>();
 	}
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+	
     //trigger o "disparador" que se acciona cuando se presiona barra espaciadora en la zona de dialogo de otro personaje
-    void OnTriggerStay2D(Collider2D other)
+    public void OnTriggerStay2D(Collider2D other)
     {
-        if (other.gameObject.name == "player")
+        if (other.gameObject.name == "player" && Input.GetKeyUp(KeyCode.Space))
         {
 			
-            if (Input.GetKeyUp(KeyCode.Space))
-            {
-                //dMAn.ShowBox(dialogue);
+
+               
 
                 if (!dMAn.dialogActive)
                 {
@@ -43,7 +39,7 @@ public class DialogHolder : MonoBehaviour {
                     transform.parent.GetComponent<VillagerMovement>().canMove = false;
                 }
 
-            }
+            
         }
 
     }

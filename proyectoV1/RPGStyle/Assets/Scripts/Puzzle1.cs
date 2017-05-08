@@ -11,9 +11,7 @@ public class Puzzle1 : MonoBehaviour {
 	public bool mover;
 	//esta variable determina el slot o la ficha donde dejamos el supuesto espacio vacio 
 	public Transform slot;
-	// variables que guardan la posición de las fichas
-	float x;
-	float y;
+	
 
 	//variables para verificar el tag del objeto
 	public string tagObjeto;
@@ -31,7 +29,7 @@ public class Puzzle1 : MonoBehaviour {
 
 
 	// Use this for initialization
-	void Start () {
+	public void Start () {
 		// permite mover las fichas
 		mover = true;
 		//captura la etiqueta de un objeto
@@ -44,7 +42,7 @@ public class Puzzle1 : MonoBehaviour {
 		texto.text="";
 	}
 
-	void Update ()
+	public void Update ()
 	{
 
 		if(modificar.puntos == 8 )
@@ -60,7 +58,7 @@ public class Puzzle1 : MonoBehaviour {
 
 	}
 	// método para sumar los aciertos
-	void OnTriggerEnter (Collider other)
+	public void OnTriggerEnter (Collider other)
 	{
 		if (other.tag == tagObjeto)
 		{
@@ -69,7 +67,7 @@ public class Puzzle1 : MonoBehaviour {
 		}
 	}
 	// método para restar los no aciertos
-	void OnTriggerExit (Collider other)
+	public void OnTriggerExit (Collider other)
 	{
 		if (other.tag == tagObjeto)
 		{
@@ -78,23 +76,24 @@ public class Puzzle1 : MonoBehaviour {
 		}
 	}
 	// método para el movimiento||
-	void OnMouseUp ()
+	public void OnMouseUp ()
 	{
-		if (mover == true)
+		// variables que guardan la posición de las fichas
+	float x;
+	float y;
+	
+		//miramos si la distancia de una ficha con la ficha vacia(la que tiene la estrella) calculada con el vector3 es igual a 1, se puede mover
+		if (mover == true && Vector3.Distance (transform.position, slot.position) == 1)
 		{
-			//miramos si la distancia de una ficha con la ficha vacia(la que tiene la estrella) calculada con el vector3 es igual a 1, se puede mover
-			if (Vector3.Distance (transform.position, slot.position) == 1)
-			{
+			
 				//se guarda la posicion de la ficha que se toca
 			x = transform.position.x;
 			y = transform.position.y;
 				//movemos la ficha a el espacio de la ficha con la estrella
 				transform.position = new Vector3 (slot.position.x, slot.position.y, 0);
 				slot.position = new Vector3 (x, y, 0);
-				//|| 
+				 
 					
-
-					}
 				}
 			}
 

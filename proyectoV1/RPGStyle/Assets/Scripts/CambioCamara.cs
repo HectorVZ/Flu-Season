@@ -8,7 +8,7 @@ public class CambioCamara : MonoBehaviour {
 	public Camera cam2;
 
 	// Use this for initialization
-	void Start () {
+	public void Start () {
 		// la cam1 es la que va a estar habilitada
 		cam1.GetComponent<Camera> ().enabled = true;
 		// la cam2 va a estar deshabilitada
@@ -17,7 +17,7 @@ public class CambioCamara : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	public void Update () {
 		//Cuando se presione la tecla c
 		if(Input.GetKeyDown("c"))
 		{

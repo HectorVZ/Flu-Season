@@ -14,7 +14,7 @@ public class CameraController : MonoBehaviour {
     private static bool cameraExist;
 
 	// Use this for initialization
-	void Start () {
+	public void Start () {
         //condicion de existencia de la camara
         if (!cameraExist)
         {   
@@ -30,7 +30,7 @@ public class CameraController : MonoBehaviour {
     }
 
     // Update is called once per frame
-    void Update () {
+    public void Update () {
         //actualizacion de la posicion del personaje cuando aparezca en un punto de inicio
         targetPos = new Vector3 (followTarget.transform.position.x,followTarget.transform.position.y,transform.position.z);
         transform.position = Vector3.Lerp(transform.position,targetPos,moveSpeed*Time.deltaTime);

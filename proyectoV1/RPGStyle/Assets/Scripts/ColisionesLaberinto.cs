@@ -10,20 +10,17 @@ public class ColisionesLaberinto : MonoBehaviour {
 
 
 	// Use this for initialization
-	void Start () {
+	public void Start () {
 
         //inicializa la variable en una posicion
 		posicionIni = transform.position;
 
 	}
 	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+
 
     // metodo que es llamado cuando el personaje colisiona con un enemigo
-	void OnCollisionEnter (Collision otro)
+	public void OnCollisionEnter (Collision otro)
 	{
 
 

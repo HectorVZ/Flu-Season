@@ -10,17 +10,9 @@ public class OpenMiniGame : MonoBehaviour {
     public string miniJuego;
 
 
-    // Use this for initialization
-    void Start () {
-
-    }
-
-    // Update is called once per frame
-    void Update () {
-       
-    }
+ 
     //metodo que abre una nueva escena cuando el personaje colisiona con un enemigo
-	void OnTriggerEnter2D(Collider2D other)
+	public void OnTriggerEnter2D(Collider2D other)
 	{
 		if(other.gameObject.name == "player")
 		{

@@ -19,3 +19,5 @@ EditorBuildSettings:
     path: Assets/Scenes/Puzzle1.unity
   - enabled: 1
     path: Assets/Scenes/Laberinto.unity
+  - enabled: 1
+    path: Assets/Scenes/Laberinto2.unity

@@ -20,14 +20,14 @@ public class DialogueManager : MonoBehaviour {
     private PlayerController thePlayer;
 
 	// Use this for initialization
-	void Start () {
+	public void Start () {
         //asignacion a theplayer de un objeto encontrado tipo playercontroller
         thePlayer = FindObjectOfType<PlayerController>();
     
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	public void Update () {
         //cuando el bool dialogactive es verdadero y la barra espaciadora esta presionada se activa el if
         //y va pasando las lineas de dialogo
         if (dialogActive && Input.GetKeyDown(KeyCode.Space))

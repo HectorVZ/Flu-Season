@@ -16,8 +16,7 @@ public class MovimientoNube : MonoBehaviour {
     public float waitTime;
     //variable que se encarga de contar caminata a la nube 
     private float walkCounter;
-    //variable que se encarga de contar el tiempo de espera a la nube 
-    private float waitCounter;
+    
     //variable que se encarga de dar direccion de caminata a la nube 
     //con valores de entre 0 y 3
     private int WalkDirection;
@@ -27,7 +26,7 @@ public class MovimientoNube : MonoBehaviour {
 
 	// Use this for initialization
     // ademas es el encargado de ejecutar el metodo choose direction
-	void Start () {
+	public void Start () {
 		myRigidBody = GetComponent<Rigidbody2D>();
 
 
@@ -40,7 +39,7 @@ public class MovimientoNube : MonoBehaviour {
 
 	// Update is called once per frame
     //se encarga de dar la caminata a la nube en una direccion aleatoria
-	void Update () {
+	public void Update () {
 
 
 
